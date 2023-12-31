@@ -19,7 +19,7 @@ In light of the vulnerabilities exposed by the OKX DEX hack, as detailed in my [
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/tornado-cash-transaction-monitor.git
+   git clone https://github.com/nemo-nesciam/suspicious-contract-creation-py
    ```
 2. Navigate to the cloned directory:
    ```
