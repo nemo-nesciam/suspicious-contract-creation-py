@@ -4,7 +4,7 @@ This repository contains a Python script designed to monitor Ethereum transactio
 
 ## About the Project
 
-In light of the vulnerabilities exposed by the OKX DEX hack, as detailed in my [blog post](#), we developed this script to help identify potentially suspicious activities involving Tornado Cash. The script fetches recent transactions from the Ethereum blockchain and analyzes them to detect any links to Tornado Cash addresses and subsequent contract creations.
+In light of the vulnerabilities exposed by the OKX DEX hack, as detailed in my [blog post](https://medium.com/@ervin.zubic/unpacking-the-okx-dex-hack-a-detailed-post-mortem-of-the-multi-million-dollar-exploit-18524c90d456), we developed this simple script to help identify potentially suspicious activities involving Tornado Cash. The script fetches recent transactions from the Ethereum blockchain and analyzes them to detect any links to Tornado Cash addresses and subsequent contract creations.
 
 ## Getting Started
 
